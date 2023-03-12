@@ -1,5 +1,4 @@
-﻿
-namespace Hotel1
+﻿namespace Hotel1
 {
     partial class Form1
         {
